@@ -369,7 +369,11 @@ export const { auth } = CreateAuth({
           return null;
         }
 
-        // logic to verify if user exists
+        // Require name
+        if (!credentials.name || typeof credentials.name !== 'string' || credentials.name.trim().length === 0) {
+          return null;
+        }
+
         const user = await adapter.getUserByEmail(email);
         if (!user) {
           const newUser = await adapter.createUser({
