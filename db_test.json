@@ -1,0 +1,6 @@
+{
+  "rows": 1,
+  "valid1": true,
+  "valid2": false,
+  "hash": "$argon2id$v=19$m=65536,t=3,p=4$bnUFv+GjMDfDZ6bc5yOiSA$yTuiA6nRoTWcIXLW0F/XKM8v/GUGZDadLiTgZ5zy5mM"
+}

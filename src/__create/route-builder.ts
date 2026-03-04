@@ -136,3 +136,5 @@ await registerRoutes();
 
 
 export { api, API_BASENAME };
+
+// Trigger reload
