@@ -1,0 +1,900 @@
+
+> dev
+> tsx watch src/__create/server.ts
+
+node.exe : Error 
+importing route file C:
+\Users\syaip\Downloads\
+Study Planner\apps\api\
+src\api\notifications\s
+ubscribe\route.js: 
+Error [ERR_MODULE_NOT_F
+OUND]: Cannot find 
+package '@/app' 
+imported from C:\Users\
+syaip\Downloads\Study P
+lanner\apps\api\src\api
+\notifications\subscrib
+e\route.js
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Error importi   
+ ng...scribe\route.    
+js:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/auth/expo-web-success/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /auth/expo-web-success/route.js -> Parts: ["auth","expo-web-success"]
+[route-builder] Registering GET /api/auth/expo-web-success
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\profile\
+preferences\route.js: 
+Error [ERR_MODULE_NOT_F
+OUND]: Cannot find 
+package '@/app' 
+imported from C:\Users\
+syaip\Downloads\Study P
+lanner\apps\api\src\api
+\profile\preferences\ro
+ute.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\cron\not
+ifications\route.js: 
+Error [ERR_MODULE_NOT_F
+OUND]: Cannot find 
+package '@/app' 
+imported from C:\Users\
+syaip\Downloads\Study P
+lanner\apps\api\src\api
+\cron\notifications\rou
+te.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\__create
+\ssr-test\route.js: 
+Error [ERR_MODULE_NOT_F
+OUND]: Cannot find 
+package 'react-dom' 
+imported from C:\Users\
+syaip\Downloads\Study P
+lanner\apps\api\src\api
+\__create\ssr-test\rout
+e.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\auth\sen
+d-otp\route.js: Error [
+ERR_MODULE_NOT_FOUND]: 
+Cannot find package 
+'@/app' imported from C
+:\Users\syaip\Downloads
+\Study Planner\apps\api
+\src\api\auth\send-otp\
+route.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\chat\his
+tory\route.js: Error [E
+RR_MODULE_NOT_FOUND]: 
+Cannot find package 
+'@/app' imported from C
+:\Users\syaip\Downloads
+\Study Planner\apps\api
+\src\api\chat\history\r
+oute.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\admin\st
+ats\route.js: Error [ER
+R_MODULE_NOT_FOUND]: 
+Cannot find package 
+'@/app' imported from C
+:\Users\syaip\Downloads
+\Study Planner\apps\api
+\src\api\admin\stats\ro
+ute.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/auth/token/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /auth/token/route.js -> Parts: ["auth","token"]
+[route-builder] Registering GET /api/auth/token
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\analytic
+s\route.js: Error [ERR_
+MODULE_NOT_FOUND]: 
+Cannot find package 
+'@/app' imported from C
+:\Users\syaip\Downloads
+\Study Planner\apps\api
+\src\api\analytics\rout
+e.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\pomodoro
+\route.js: Error [ERR_M
+ODULE_NOT_FOUND]: 
+Cannot find package 
+'@/app' imported from C
+:\Users\syaip\Downloads
+\Study Planner\apps\api
+\src\api\pomodoro\route
+.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\setup-db
+\route.js: Error [ERR_M
+ODULE_NOT_FOUND]: 
+Cannot find package 
+'@/app' imported from C
+:\Users\syaip\Downloads
+\Study Planner\apps\api
+\src\api\setup-db\route
+.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\subjects
+\route.js: Error [ERR_M
+ODULE_NOT_FOUND]: 
+Cannot find package 
+'@/app' imported from C
+:\Users\syaip\Downloads
+\Study Planner\apps\api
+\src\api\subjects\route
+.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\profile\
+route.js: Error [ERR_MO
+DULE_NOT_FOUND]: 
+Cannot find package 
+'@/app' imported from C
+:\Users\syaip\Downloads
+\Study Planner\apps\api
+\src\api\profile\route.
+js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\tasks\ro
+ute.js: Error [ERR_MODU
+LE_NOT_FOUND]: Cannot 
+find package '@/app' 
+imported from C:\Users\
+syaip\Downloads\Study P
+lanner\apps\api\src\api
+\tasks\route.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Error importing route 
+file C:\Users\syaip\Dow
+nloads\Study Planner\ap
+ps\api\src\api\chat\rou
+te.js: Error [ERR_MODUL
+E_NOT_FOUND]: Cannot 
+find package '@/app' 
+imported from C:\Users\
+syaip\Downloads\Study P
+lanner\apps\api\src\api
+\chat\route.js
+    at Object.getPackag
+eJSONURL (node:internal
+/modules/package_json_r
+eader:316:9)
+    at packageResolve (
+node:internal/modules/e
+sm/resolve:768:81)
+    at moduleResolve (n
+ode:internal/modules/es
+m/resolve:858:18)
+    at defaultResolve (
+node:internal/modules/e
+sm/resolve:990:11)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28)
+    at resolveBase (fil
+e:///C:/Users/syaip/Dow
+nloads/Study%20Planner/
+apps/api/node_modules/t
+sx/dist/esm/index.mjs?1
+772433988879:2:3744)
+    at 
+resolveDirectory (file:
+///C:/Users/syaip/Downl
+oads/Study%20Planner/ap
+ps/api/node_modules/tsx
+/dist/esm/index.mjs?177
+2433988879:2:4243)
+    at resolveTsPaths (
+file:///C:/Users/syaip/
+Downloads/Study%20Plann
+er/apps/api/node_module
+s/tsx/dist/esm/index.mj
+s?1772433988879:2:4984)
+    at resolve (file://
+/C:/Users/syaip/Downloa
+ds/Study%20Planner/apps
+/api/node_modules/tsx/d
+ist/esm/index.mjs?17724
+33988879:2:5361)
+    at nextResolve (nod
+e:internal/modules/esm/
+hooks:785:28) {
+  code: 
+'ERR_MODULE_NOT_FOUND'
+}
+Starting API server on port 4001...
+node:events:486
+      throw er; // 
+Unhandled 'error' event
+      ^
+
+Error: listen 
+EADDRINUSE: address 
+already in use :::4001
+    at Server.setupList
+enHandle [as _listen2] 
+(node:net:1940:16)
+    at listenInCluster 
+(node:net:1997:12)
+    at Server.listen 
+(node:net:2102:7)
+    at serve (file:///C
+:/Users/syaip/Downloads
+/Study%20Planner/apps/a
+pi/node_modules/@hono/n
+ode-server/dist/index.m
+js:562:10)
+    at <anonymous> (C:\
+Users\syaip\Downloads\S
+tudy Planner\apps\api\s
+rc\__create\server.ts:9
+:1)
+Emitted 'error' event 
+on Server instance at:
+    at emitErrorNT 
+(node:net:1976:8)
+    at process.processT
+icksAndRejections (node
+:internal/process/task_
+queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4001
+}
+
+Node.js v24.13.0

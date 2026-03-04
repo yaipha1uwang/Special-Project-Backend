@@ -1,0 +1,117 @@
+
+> dev
+> tsx watch src/__create/server.ts
+
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/notifications/subscribe/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /notifications/subscribe/route.js -> Parts: ["notifications","subscribe"]
+[route-builder] Registering POST /api/notifications/subscribe
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/auth/expo-web-success/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /auth/expo-web-success/route.js -> Parts: ["auth","expo-web-success"]
+[route-builder] Registering GET /api/auth/expo-web-success
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/profile/preferences/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /profile/preferences/route.js -> Parts: ["profile","preferences"]
+[route-builder] Registering PUT /api/profile/preferences
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/cron/notifications/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /cron/notifications/route.js -> Parts: ["cron","notifications"]
+[route-builder] Registering GET /api/cron/notifications
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/auth/send-otp/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /auth/send-otp/route.js -> Parts: ["auth","send-otp"]
+[route-builder] Registering POST /api/auth/send-otp
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/chat/history/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /chat/history/route.js -> Parts: ["chat","history"]
+[route-builder] Registering DELETE /api/chat/history
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/admin/stats/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /admin/stats/route.js -> Parts: ["admin","stats"]
+[route-builder] Registering GET /api/admin/stats
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/auth/token/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /auth/token/route.js -> Parts: ["auth","token"]
+[route-builder] Registering GET /api/auth/token
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/analytics/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /analytics/route.js -> Parts: ["analytics"]
+[route-builder] Registering GET /api/analytics
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/analytics/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /analytics/route.js -> Parts: ["analytics"]
+[route-builder] Registering POST /api/analytics
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/pomodoro/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /pomodoro/route.js -> Parts: ["pomodoro"]
+[route-builder] Registering GET /api/pomodoro
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/pomodoro/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /pomodoro/route.js -> Parts: ["pomodoro"]
+[route-builder] Registering POST /api/pomodoro
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/pomodoro/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /pomodoro/route.js -> Parts: ["pomodoro"]
+[route-builder] Registering PUT /api/pomodoro
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/setup-db/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /setup-db/route.js -> Parts: ["setup-db"]
+[route-builder] Registering GET /api/setup-db
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/subjects/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /subjects/route.js -> Parts: ["subjects"]
+[route-builder] Registering GET /api/subjects
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/subjects/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /subjects/route.js -> Parts: ["subjects"]
+[route-builder] Registering POST /api/subjects
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/subjects/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /subjects/route.js -> Parts: ["subjects"]
+[route-builder] Registering PUT /api/subjects
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/subjects/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /subjects/route.js -> Parts: ["subjects"]
+[route-builder] Registering DELETE /api/subjects
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/profile/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /profile/route.js -> Parts: ["profile"]
+[route-builder] Registering GET /api/profile
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/profile/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /profile/route.js -> Parts: ["profile"]
+[route-builder] Registering POST /api/profile
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/profile/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /profile/route.js -> Parts: ["profile"]
+[route-builder] Registering PUT /api/profile
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/profile/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /profile/route.js -> Parts: ["profile"]
+[route-builder] Registering DELETE /api/profile
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/tasks/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /tasks/route.js -> Parts: ["tasks"]
+[route-builder] Registering GET /api/tasks
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/tasks/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /tasks/route.js -> Parts: ["tasks"]
+[route-builder] Registering POST /api/tasks
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/tasks/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /tasks/route.js -> Parts: ["tasks"]
+[route-builder] Registering PUT /api/tasks
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/tasks/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /tasks/route.js -> Parts: ["tasks"]
+[route-builder] Registering DELETE /api/tasks
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/chat/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /chat/route.js -> Parts: ["chat"]
+[route-builder] Registering GET /api/chat
+[route-builder] Mapping C:/Users/syaip/Downloads/Study Planner/apps/api/src/api/chat/route.js -> Base: C:/Users/syaip/Downloads/Study Planner/apps/api/src/api -> Rel: /chat/route.js -> Parts: ["chat"]
+[route-builder] Registering POST /api/chat
+Starting API server on port 4001...
+node.exe : node:events:486
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: (nod  
+  e:events:486:String) [   
+ ], RemoteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+      throw er; // 
+Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: 
+address already in use 
+:::4001
+    at 
+Server.setupListenHandle 
+[as _listen2] 
+(node:net:1940:16)
+    at listenInCluster 
+(node:net:1997:12)
+    at Server.listen 
+(node:net:2102:7)
+    at serve (file:///C:/Us
+ers/syaip/Downloads/Study%2
+0Planner/apps/api/node_modu
+les/@hono/node-server/dist/
+index.mjs:562:10)
+    at <anonymous> (C:\User
+s\syaip\Downloads\Study Pla
+nner\apps\api\src\__create\
+server.ts:9:1)
+Emitted 'error' event on 
+Server instance at:
+    at emitErrorNT 
+(node:net:1976:8)
+    at process.processTicks
+AndRejections (node:interna
+l/process/task_queues:89:21
+) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 4001
+}
+
+Node.js v24.13.0
